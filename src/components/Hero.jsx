@@ -247,7 +247,7 @@ const Hero = () => {
               {/* Profile Image */}
               <div className="absolute inset-4 rounded-full overflow-hidden">
                 <img
-                  src="/profile_themed.png"
+                  src="/p1.jpg"
                   alt="Priyansh Rathore - AI Developer"
                   className="w-full h-full object-cover"
                 />
