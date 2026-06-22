@@ -26,7 +26,7 @@ const projects = [
     features: ['PDF Upload', 'Semantic Search', 'Conversational AI', 'Context-Aware Answers'],
     tech: ['Python', 'Streamlit', 'LangChain', 'ChromaDB', 'RAG'],
     github: 'https://github.com/rathorepriyansh01',
-    live: 'https://rathorepriyansh01-rag-app-p5-7k5ct9.streamlit.app/',
+    live: 'https://ragapp-konxnrgidb2s9tiypvb69x.streamlit.app/',
     color: '#7B61FF',
     emoji: '📄',
     status: 'live',
